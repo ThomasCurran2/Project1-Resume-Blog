@@ -18,6 +18,9 @@
 @import "reset";
 @import "base";
 
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'air' }}"; // skin
+
 @import "utilities";
 @import "animations";
 @import "tables";
