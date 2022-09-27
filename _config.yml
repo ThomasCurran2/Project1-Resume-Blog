@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "Minimal Mistakes"
 title_separator          : "-"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 name                     : &name "Michael Rose"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
