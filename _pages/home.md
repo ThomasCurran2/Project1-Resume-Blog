@@ -1,7 +1,6 @@
 ---
 layout: splash
 permalink: /
-overlay_color: "#808080"
 header:
   overlay_color: "#ADD8E6"
   overlay_image: mm-home-page-feature.jpg
