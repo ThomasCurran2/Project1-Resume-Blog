@@ -15,7 +15,7 @@ feature_row:
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
     btn_label: "Learn More"
-    $background-color: #808080;
+    $background-color: "#808080"
   - image_path: mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive Layouts"
