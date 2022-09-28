@@ -14,11 +14,13 @@ feature_row:
     alt: "customizable"
     title: "Hobbies"
     excerpt: "I enjoy reading and drawing in my free time as well as hanging out with my friends."
+    url: "/docs/license/"
     btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
     alt: "fully responsive"
     title: "Software knowledge"
     excerpt: "I have a good understanding of the Python, java, html, C++ and C# coding languages. I also have experience with Photoshop and blender for more art related projects."
+    url: "/docs/license/"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png
     alt: "100% free"
