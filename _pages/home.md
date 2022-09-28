@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Hello, My name is Thomas Curran and welcome to my website! ![Profile_Pic](/Project1-Resume-Blog/images/ProfileImage.jpg "ProfileImage")'
+excerpt: 'Hello, My name is Thomas Curran and welcome to my website! <img src="/Project1-Resume-Blog/images/ProfileImage.jpg" alt="profile_pic" width="200"/>'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
