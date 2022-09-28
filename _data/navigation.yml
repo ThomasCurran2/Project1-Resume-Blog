@@ -21,20 +21,14 @@ foo:
 
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "Resume"
+    url: https://thomascurran2.github.io/Project1-Resume-Blog/docs/quick-start-guide/
 
   - title: "About"
     url: https://thomascurran2.github.io/Project1-Resume-Blog/about/
 
-  - title: "Sample Posts"
-    url: /year-archive/
-
-  - title: "Sample Collections"
-    url: /collection-archive/
-
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+  - title: "Blog Posts"
+    url: https://thomascurran2.github.io/Project1-Resume-Blog/year-archive/
 
 
 # documentation links
