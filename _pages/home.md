@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+CSS: main.scss
 header:
   overlay_color: "#ADD8E6"
   overlay_image: mm-home-page-feature.jpg
