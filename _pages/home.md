@@ -5,7 +5,7 @@ header:
   overlay_color: "#ADD8E6"
   overlay_image: mm-home-page-feature.jpg
   caption:
-excerpt: 'Hello, My name is Thomas Curran and welcome to my website! <img src="/Project1-Resume-Blog/images/ProfileImage.jpg" alt="profile_pic" width="200"/> <a href="https://github.com/ThomasCurran2">Github</a>'
+excerpt: 'Hello, My name is Thomas Curran and welcome to my website! <img src="/Project1-Resume-Blog/images/ProfileImage.jpg" alt="profile_pic" width="200"/><br> <a href="https://github.com/ThomasCurran2">Github</a><br> <a href="https://www.linkedin.com/in/thomas-curran-3639a2221/">Linkedin</a>'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
