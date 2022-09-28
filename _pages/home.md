@@ -11,19 +11,19 @@ feature_row:
     alt: "customizable"
     title: "Resume"
     excerpt: "Take a look at my resume if your interested in my skills and experience."
-    url: "/docs/configuration/"
+    url: "https://thomascurran2.github.io/Project1-Resume-Blog/docs/quick-start-guide/"
     btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
     alt: "fully responsive"
     title: "Blog"
     excerpt: "I enjoy reading, coding and drawing in my free time. Check out my blog if you want to know more about me."
-    url: "/docs/layouts/"
+    url: "https://thomascurran2.github.io/Project1-Resume-Blog/year-archive/"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png
     alt: "100% free"
     title: "Coding skills"
     excerpt: "Check out my Github if you want to see some of my coding experience."
-    url: "/docs/license/"
+    url: "https://github.com/ThomasCurran2"
     btn_label: "Learn More"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
