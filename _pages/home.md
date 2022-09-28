@@ -7,20 +7,20 @@ header:
   caption:
 excerpt: 'Hello, My name is Thomas Curran and welcome to my website! <img src="/Project1-Resume-Blog/images/ProfileImage.jpg" alt="profile_pic" width="200"/><br> <a href="https://github.com/ThomasCurran2">Github</a><br> <a href="https://www.linkedin.com/in/thomas-curran-3639a2221/">Linkedin</a>'
 feature_row:
-  - image_path: resume.png
-    alt: "customizable"
+  - image_path: /Project1-Resume-Blog/images/resume.png
+    alt: "Resume_pic"
     title: "Resume"
     excerpt: "Take a look at my resume if your interested in my skills and experience."
     url: "https://thomascurran2.github.io/Project1-Resume-Blog/docs/quick-start-guide/"
     btn_label: "To Resume"
-  - image_path: blog.jpg
-    alt: "fully responsive"
+  - image_path: /Project1-Resume-Blog/images/blog.jpg
+    alt: "Blog_pic"
     title: "Blog"
     excerpt: "I enjoy reading, coding and drawing in my free time. Check out my blog if you want to know more about me."
     url: "https://thomascurran2.github.io/Project1-Resume-Blog/year-archive/"
     btn_label: "To Blog"
-  - image_path: GitHub-Mark.png
-    alt: "100% free"
+  - image_path: /Project1-Resume-Blog/images/GitHub-Mark.png
+    alt: "Github_logo"
     title: "Coding skills"
     excerpt: "Check out my Github if you want to see some of my coding experience."
     url: "https://github.com/ThomasCurran2"
