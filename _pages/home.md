@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Hello, My name is Thomas Curran and welcome to my website. I'm currently majoring in computer science at Marist college. <img src="ProfileImage.jpg" alt="Profile pic">'
+excerpt: 'Hello, My name is Thomas Curran and welcome to my website! <img src="ProfileImage.jpg" alt="Profile pic">'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
