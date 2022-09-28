@@ -11,20 +11,20 @@ excerpt: 'Hello, My name is Thomas Curran and welcome to my website.<br /> <smal
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    title: "Resume"
+    excerpt: "Take a look at my resume if your interested in my skills and experience."
     url: "/docs/configuration/"
     btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    title: "Blog"
+    excerpt: "I enjoy reading, coding and drawing in my free time. Check out my blog if you want to know more about me."
     url: "/docs/layouts/"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png
     alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
+    title: "Coding skills"
+    excerpt: "Check out my Github if you want to see some of my coding experience."
     url: "/docs/license/"
     btn_label: "Learn More"
 github:
