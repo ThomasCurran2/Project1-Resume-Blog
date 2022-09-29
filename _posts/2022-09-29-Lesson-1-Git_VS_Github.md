@@ -108,16 +108,15 @@ A page using CSS looks like this:
 
 //CSS image
 
+Types of CSS include:
 
+`External style sheet` - The user can set styles to tags and other parts of code from an external file and link to it in the main file.
 
-## Extra Features: Other functionality
+`Internal style sheet` - The user can set what tags and other peices of code's styling directly in the main file.
 
-
+`Inline` - The "<stlye>" tag can be used with attributes to style specific lines in an HTML file.
+  
 
 ---
 
-That's it! If all goes well running `bundle exec jekyll serve` should spin-up your site. If you encounter any bumps please file an issue on GitHub and make sure to indicate you're testing the pre-release Ruby gem version.
-
-[File an issue](https://github.com/mmistakes/minimal-mistakes/issues/new){: .btn .btn--info .btn--large}
-
-Thanks!
+That's everything from lesson 1! My next post will be on lesson 2, which covers workflow and different collaborative strategies.
