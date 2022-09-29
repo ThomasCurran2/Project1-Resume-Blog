@@ -11,7 +11,7 @@ feature_row:
     alt: "Resume_pic"
     title: "Resume"
     excerpt: "Take a look at my resume if your interested in my skills and experience."
-    url: "https://thomascurran2.github.io/Project1-Resume-Blog/srt-resume.html/"
+    url: "https://thomascurran2.github.io/Project1-Resume-Blog/srt-resume.html"
     btn_label: "To Resume"
   - image_path: "/Project1-Resume-Blog/images/blog.jpg"
     alt: "Blog_pic"
