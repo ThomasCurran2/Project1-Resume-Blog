@@ -27,7 +27,7 @@ Git is a program operated through the control panel and other similar software t
 
 An example of working with Git looks something like this:
 
-//Git image
+<img src="/Project1-Resume-Blog/images/Git_Console.png" alt="Git_Terminal" width="500"/>
 
 Some of the more basic commands include: 
 
@@ -54,7 +54,7 @@ Github is a website developers can use to push their local repositories to remot
 
 Github's interface looks like this:
 
-//Github image
+<img src="/Project1-Resume-Blog/images/Github_look.PNG" alt="Github_image" width="500"/>
 
 Some of  Github's features include:
 
@@ -76,7 +76,8 @@ HTML, or Hyper Text Markup Language can be used in an IDE, integrated developmen
 
 An example og HTML looks like this:
 
-//HTML image
+
+<img src="/Project1-Resume-Blog/images/HTML_example.jpg" alt="HTML_code" width="500"/>
 
 Tags are used to designate how the code will be have or look, and can take in attributes to modify their functions:
 
@@ -106,7 +107,7 @@ CSS, Cascading style sheets, are used to stylize a page and can add anything fro
 
 A page using CSS looks like this:
 
-//CSS image
+<img src="/Project1-Resume-Blog/images/CSS_example.png" alt="CSS_page" width="500"/>
 
 Types of CSS include:
 
