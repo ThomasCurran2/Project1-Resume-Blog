@@ -22,7 +22,7 @@ foo:
 # main links links
 main:
   - title: "Resume"
-    url: https://thomascurran2.github.io/Project1-Resume-Blog/docs/quick-start-guide/
+    url: https://thomascurran2.github.io/Project1-Resume-Blog/srt-resume/
 
   - title: "About"
     url: https://thomascurran2.github.io/Project1-Resume-Blog/about/
