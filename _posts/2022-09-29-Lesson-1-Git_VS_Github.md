@@ -10,11 +10,9 @@ tags:
   - HTML
   - CSS
 
-image: /images/Github_postImage.png
-
 ---
 
-![]({{ page.image | relative_url }})
+<img src="/Project1-Resume-Blog/images/Github_postImage.png" alt="Git_Terminal">
 
 Git and Github are both powerful tools when it comes to coding project development. However many may not know the differneces between Git and Github.
 
