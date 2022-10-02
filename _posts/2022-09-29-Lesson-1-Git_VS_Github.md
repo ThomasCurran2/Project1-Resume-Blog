@@ -11,8 +11,8 @@ tags:
   - CSS
 
 image:
-  feature: "/Project1-Resume-Blog/images/Github_postImage.png"
-  thumb: "/Project1-Resume-Blog/images/Github_postImage.png"
+  feature: "Github_postImage.png"
+  thumb: "Github_postImage.png"
 ---
 
 Git and Github are both powerful tools when it comes to coding project development. However many may not know the differneces between Git and Github.
