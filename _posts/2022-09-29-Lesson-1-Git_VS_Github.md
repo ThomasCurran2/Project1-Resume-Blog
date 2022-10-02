@@ -12,7 +12,7 @@ tags:
 
 ---
 
-<img src="/Project1-Resume-Blog/images/Github_postImage.png" alt="Git_Terminal">
+<img src="/Project1-Resume-Blog/images/Github_postImage.png" alt="Github_newlogo">
 
 Git and Github are both powerful tools when it comes to coding project development. However many may not know the differneces between Git and Github.
 
