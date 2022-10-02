@@ -10,7 +10,7 @@ tags:
   - HTML
   - CSS
 
-image: Project1-Resume-Blog/images/Github_postImage.png
+image: Github_postImage.png
 
 ---
 
