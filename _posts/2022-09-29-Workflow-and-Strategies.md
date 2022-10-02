@@ -8,7 +8,12 @@ categories:
 tags:
   - practices
   - terms
+header:
+  teaser: "/images/Git_framework.png"
+  
 ---
+
+<img src="/Project1-Resume-Blog/images/Git_framework.png" alt="Git_framework">
 
 Lesson 2 covers the different programs involved in a programmers workflow as well as some coding strategies that are used for coding collaboratively.
 
