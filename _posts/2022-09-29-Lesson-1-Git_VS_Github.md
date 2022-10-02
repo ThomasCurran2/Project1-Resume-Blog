@@ -10,8 +10,6 @@ tags:
   - HTML
   - CSS
 
-image: /Project1-Resume-Blog/images/Github_postImage.png
-
 ---
 
 <img src="/Project1-Resume-Blog/images/Github_postImage.png" alt="Github_newlogo">
