@@ -16,7 +16,7 @@ header:
   
 ---
 
-<img src="/Project1-Resume-Blog/images/Git_framework.png" alt="Github_newlogo">
+<img src="/Project1-Resume-Blog/images/Git_framework.png" alt="Git_framework">
 
 Frameworks can be used by developers to speed up development time by using templets that give structure to a website. Some of these frameworks include Bootstrap and Jekyll which give structure and other customization options to developers. To start off with, what is a frame work and why would be use one?
 
